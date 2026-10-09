@@ -3,7 +3,7 @@ This is a small calculator project I made for fun at the start of September 2026
 
 ## Known bugs and limitations:
 
-* You can type in numbers with paragraph breaks for example
+* You can type in numbers with line breaks for example
 ```
   1
   +
