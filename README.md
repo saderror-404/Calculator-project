@@ -37,4 +37,12 @@ g++ calc.cpp -o calculator
 
 LLM was used for making this project by giving me an example piece of code that I took pieces out of into my own code and used the LLM code as my building blocks for this project.
 
+## Reflections:
+
 I don't know how to compile for other OSes but internet probably has some great tutorials for it.
+
+When I built this C++ code I had couple hundred of lines worth of coding knowledge in C#.
+I built this for fun and because I wanted to code. I didn't publish it then because I didn't think much of it but now I want to 
+1. Share what I've done,
+2. Keep a portfolio for the future and
+3. To see my progress as I hopefully get better at coding and less dependent on AI.
