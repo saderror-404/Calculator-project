@@ -20,19 +20,19 @@ This is a small calculator project I made for fun at the start of September 2026
 ## How to compile:
 
 If you don't have g++ installed on Ubuntu/Debian systems you can install it from the terminal:
-
+```
 sudo apt update
 sudo apt install g++
-
+```
 Compiling on Linux terminal:
-
+```
 cd /Path/To/Project
 g++ calc.cpp -o calculator
-
+```
 ## Run:
-
+```
 ./calculator
-
+```
 ## AI assistance:
 
 LLM was used for making this project by giving me an example piece of code that I took pieces out of into my own code and used the LLM code as my building blocks for this project.
